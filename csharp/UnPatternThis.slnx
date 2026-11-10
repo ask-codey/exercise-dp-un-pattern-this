@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="UnPatternThis/UnPatternThis.csproj" />
+  <Project Path="UnPatternThis.Tests/UnPatternThis.Tests.csproj" />
+</Solution>
